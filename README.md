@@ -1,10 +1,12 @@
-# TSDX React User Guide
+# React Picker Wheel
 
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+## Motivation
 
-> This TSDX setup is meant for developing React component libraries (not apps!) that can be published to NPM. If you’re looking to build a React-based app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
+I was needing(or wanting very badly) a picker wheel that can be used in a react application that provided a similar experience to that found on iOS devices. There were 2 packaged on npm that did not meet my needs, and did not appear to have been maintained/updated in a while.
 
-> If you’re new to TypeScript and React, checkout [this handy cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet/)
+## TSDX
+
+This project was bootstrapped with TSDX
 
 ## Commands
 
